@@ -1,0 +1,4 @@
+configparser
+futures==2.2
+requests>=2.18.4
+tqdm>=3.8.0
